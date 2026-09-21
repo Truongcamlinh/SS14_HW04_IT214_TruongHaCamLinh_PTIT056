@@ -1,10 +1,5 @@
 # SS14 HW04 - Choreography và Orchestration
 
-**Sinh viên:** Trương Hà Cẩm Linh
-
-**Lớp:** IT214
-
-**Mã sinh viên:** PTIT056
 
 ## Tích hợp Voucher
 
