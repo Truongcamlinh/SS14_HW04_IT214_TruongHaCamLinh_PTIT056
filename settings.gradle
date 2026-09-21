@@ -1,0 +1,2 @@
+rootProject.name = 'SS14_HW04_IT214_TruongHaCamLinh_PTIT056'
+include 'checkout-orchestrator', 'order-service', 'voucher-service', 'payment-service'

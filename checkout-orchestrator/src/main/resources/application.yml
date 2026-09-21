@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: checkout-orchestrator
+
+services:
+  order-url: http://localhost:8081
+  voucher-url: http://localhost:8082
+  payment-url: http://localhost:8083
+
